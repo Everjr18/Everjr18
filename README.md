@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **platzi**
 
-- 🌱 I’m currently learning **vue.js and English**
+- 🌱 I’m currently learning **English**
 
 - 💬 Ask me about **Javascript**
 
