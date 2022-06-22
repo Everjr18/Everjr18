@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/91352297/175178655-cc5f06c0-a093-4375-affe-17b90ca16d3a.jpg)]
+![MasterHead](https://user-images.githubusercontent.com/91352297/175178655-cc5f06c0-a093-4375-affe-17b90ca16d3a.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ever Rojas</h1>
