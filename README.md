@@ -1,4 +1,6 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEhGMDDZGlufA/profile-displaybackgroundimage-shrink_350_1400/0/1649637091018?e=1655337600&v=beta&t=HtNH7ISvyd8XhVct7YnPonbVpCVIq6EOLqKA0mBwPRM)]
+
+[![MasterHead](https://user-images.githubusercontent.com/91352297/175178655-cc5f06c0-a093-4375-affe-17b90ca16d3a.jpg)]
+
 
 <h1 align="center">Hi 👋, I'm Ever Rojas</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
